@@ -1,4 +1,4 @@
-# hardware-search-rest
+# Hardware Search Rest API
 C++ search engine for hardware with REST API
 
 # Features
